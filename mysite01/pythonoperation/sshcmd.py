@@ -204,4 +204,4 @@ if __name__ == "__main__":
         else:
             print
             R('主机或命令不能为空')
-            echo
+        print('test')
